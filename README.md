@@ -4,6 +4,8 @@ This project was about using ReactJS to replicate the job listing page of [NodeF
 
 It was designed to be responsive to different screen size
 
+Aesthetic was focused and the overall functionality of the website is not replicated
+
 # Description
 
 - Clone the project directory
