@@ -1,6 +1,7 @@
 # Overview
 
 This project was about using ReactJS to replicate the job listing page of [NodeFlair](https://www.nodeflair.com/jobs)
+
 It was designed to be responsive to different screen size
 
 # Description
